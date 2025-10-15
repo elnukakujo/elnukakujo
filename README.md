@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![elnukakujo's GitHub stats](https://github-readme-stats.vercel.app/api?username=elnukakujo&hide_border=false&include_all_commits=true&count_private=true&theme=tokyonight)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=elnukakujo&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=elnukakujo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=elnukakujo&hide_border=false&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=elnukakujo&icon=0&color=0)](https://visitcount.itsvg.in)
